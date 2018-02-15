@@ -1,0 +1,21 @@
+{
+  "name": "twiliodev",
+  "version": "1.0.0",
+  "description": "twiliodev dialogflow",
+  "main": "app.js",
+  "scripts": {
+  	"start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madan",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^3.0.3",
+    "body-parser": "^1.15.0",
+    "console-stamp": "^0.2.1",
+    "express": "^4.13.4",
+    "node-uuid": "^1.4.7",
+    "request": "^2.71.0",
+    "xml-escape": "^1.1.0"
+  }
+}

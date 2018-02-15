@@ -1,0 +1,18 @@
+{
+  "name": "API.AI Twilio integration",
+  "description": "Api.ai Twilio integration allows you to create Twilio bots with natural language understanding based on Api.ai technology.",
+  "repository": "https://github.com/api-ai/apiai-twilio-bot",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "twilio", "natural language"],
+  "env": {
+    "APIAI_ACCESS_TOKEN": {
+      "description": "Client access token for Api.ai",
+      "value": "aa8f13b266e045428f34095f32bd05b9"
+    },
+    "APIAI_LANG": {
+      "description": "Agent language",
+      "value": "en",
+      "required": false
+    }
+  }
+}

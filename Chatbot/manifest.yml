@@ -1,0 +1,7 @@
+---
+applications:
+- name: my-app
+  memory: 512M
+  path: /Users/bp25913/Documents/twilio/bot
+  host: my-app-crs
+  domain: cfapps.io
